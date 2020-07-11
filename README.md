@@ -780,7 +780,7 @@ browserconfig.xml文件的最小所需xml标记如下所示:
 
 **[⬆ 回到顶部](#目录)**
 
-[low_img]: data/images/priority/low.svg
-[medium_img]: data/images/priority/medium.svg
-[high_img]: data/images/priority/high.svg
+[low_img]: https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/priority/low.svg
+[medium_img]: https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/priority/medium.svg
+[high_img]: https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/priority/high.svg
 
